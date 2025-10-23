@@ -7,6 +7,11 @@ A `UICollectionViewLayout` implementation that aligns the cells to the left.
 
 _Check out the twin project [`UICollectionViewRightAlignedLayout`](https://github.com/mokagio/UICollectionViewRightAlignedLayout)_
 
+## -> ARCHIVED <-
+
+because cody ko references are out of date
+
+
 ## Installation with CocoaPods
 
 ```ruby
